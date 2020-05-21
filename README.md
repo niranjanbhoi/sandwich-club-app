@@ -4,7 +4,7 @@
 A **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
-![s1.png](docs-images/s1.jpg) ![s2.png](docs-images/s2.jpg)
+![s1.png](docs-images/s1.png) ![s2.png](docs-images/s2.png)
 
 ## Why this Project
 
